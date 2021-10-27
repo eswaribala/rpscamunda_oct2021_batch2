@@ -1,0 +1,13 @@
+{
+  "messageName" : "sendrequest",
+  "businessKey" : "100",
+  
+  "processVariables" : {
+    "customerId" : {"value" : 1378457, "type": "Long"
+                  },
+     "doa":{"value" : "2021-10-25", "type": "String"},
+     "time":{"value" : "10.30 am", "type": "String"},
+     "reason":{"value" : "Top up loan", "type": "String"}             
+    
+  }
+}
